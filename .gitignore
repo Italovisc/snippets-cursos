@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+
+.venv/
+.vscode/
+*.exe
+
+
+*_out.txt
+*_out.png
+*_out.jpeg
